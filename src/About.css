@@ -1,0 +1,44 @@
+#vedioabt
+{
+    height:700px;
+    width: 100%;
+    border:1px solid black;
+    background-color:wheat;
+    padding-top: 10px;
+}
+#vid{
+    height:550px;
+    width: 100%;
+    background-size: cover;
+}
+#abtbox{
+    height:1500px;
+    width:100%;
+    border: 1px solid black;
+    display:grid;
+}
+.abt{
+    height:500px;
+    width:100%;
+    border: 1px solid black;
+    color:black;
+    background-color:#6868bd;
+    display:flex;
+}
+ .abtceo img
+{
+    height:400px;
+    width:500px;
+    padding:50px;
+}
+.abtin p{
+    padding-top:0px;
+    padding:0 50px 50px 50px;
+    color:black;
+    font-weight: bold;
+    font-size:20px;
+}
+.abtin h1{
+    padding:50px;
+    padding-top:50px;
+}
